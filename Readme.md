@@ -9,6 +9,8 @@ This project leverages blockchain technology to incentivize event managers, prom
 ## Contract Address
 
 0x7133EB70027eed93d124BC4B385b17d198bF7768
+![image](https://github.com/user-attachments/assets/c8619087-b22e-4ef8-8de0-3dfffcd2fea1)
+
 
 ## Project Vision
 
